@@ -1,1 +1,10 @@
-![](./PNG Images/[Mid-FI] Personalized Workout Plan (Taalib)-1.png)
+
+
+[Figma Design Mock-ups (Taalib Shivraj)](https://www.figma.com/design/DF1IIC3pvnuMXIgtwR47gX/%5BMid-FI%5D-Personalized-Workout-Plan-(Taalib)?node-id=0-1&t=YJ2uTGiFkq3pfMhW-1)
+
+
+
+| ![](./PNG%20Images/mockup1.png)      | ![](./PNG%20Images/Mockup2.png)     |  ![](./PNG%20Images/Mockup3.png)     | ![](./PNG%20Images/Mockup4.png)     |
+| ------------- |:-------------:|  ------------- |:-------------:|
+| ![](./PNG%20Images/Mockup5.png)      | ![](./PNG%20Images/Mockup6.png)     |  ![](./PNG%20Images/Mockup7.png)      |      |
+
